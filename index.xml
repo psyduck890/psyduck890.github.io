@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psyduck&#39;s blog</title>
+    <link>https://psyduck890.github.io/</link>
+    <description>Recent content on Psyduck&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2024 12:34:30 +0800</lastBuildDate><atom:link href="https://psyduck890.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://psyduck890.github.io/posts/helloworld/</link>
+      <pubDate>Tue, 30 Jan 2024 12:34:30 +0800</pubDate>
+      
+      <guid>https://psyduck890.github.io/posts/helloworld/</guid>
+      <description>Hello World! I want ot build a business outside my 9 to 5 with programming. I don&amp;rsquo;t quite know what I am going to do exactly, but in an attempt to keep myself accountable, and as a means of keeping track of progress, I started this blog to document my progress.</description>
+    </item>
+    
+  </channel>
+</rss>
