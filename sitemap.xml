@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://psyduck890.github.io/posts/helloworld/</loc>
-    <lastmod>2024-01-30T12:34:30+08:00</lastmod>
-  </url><url>
     <loc>https://psyduck890.github.io/posts/</loc>
-    <lastmod>2024-01-30T12:34:30+08:00</lastmod>
+    <lastmod>2024-01-30T14:43:36+08:00</lastmod>
   </url><url>
     <loc>https://psyduck890.github.io/</loc>
+    <lastmod>2024-01-30T14:43:36+08:00</lastmod>
+  </url><url>
+    <loc>https://psyduck890.github.io/posts/test/</loc>
+    <lastmod>2024-01-30T14:43:36+08:00</lastmod>
+  </url><url>
+    <loc>https://psyduck890.github.io/posts/helloworld/</loc>
     <lastmod>2024-01-30T12:34:30+08:00</lastmod>
   </url><url>
     <loc>https://psyduck890.github.io/categories/</loc>
